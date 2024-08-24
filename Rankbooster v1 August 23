@@ -1,1 +1,10 @@
-
+{
+  "Visibility": "VISIBLE",
+  "Title": "fixing error",
+  "Description": "Click view",
+  "MainTextButton": "View",
+  "Cancelable": "true",
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "I we'll fixing here",
+  "Version": "1.1"
+}
