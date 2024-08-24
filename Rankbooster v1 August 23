@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "fixing error",
-  "Description": "Click view",
+  "Title": "New Version",
+  "Description": "New version august24 fix bug",
   "MainTextButton": "View",
-  "Cancelable": "true",
+  "Cancelable": "UPDATE",
   "CancelButtonText": "Cancel",
-  "DownloadLink": "https://t.me/leomodz01",
+  "DownloadLink": "https://www.mediafire.com/file/5w2hxg65wm4doc4/Rank_booster_August_24.zip/file",
   "Version": "1.1"
 }
